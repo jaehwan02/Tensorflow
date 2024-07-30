@@ -2,7 +2,6 @@ import tensorflow as tf
 
 키 = 170
 신발 = 260
-
 a = tf.Variable(1.52)
 b = tf.Variable(1.62)
 
